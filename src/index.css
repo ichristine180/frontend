@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bnr-cream: #F0DDB4;
+  --color-bnr-cream-dark: #E5CC99;
+  --color-bnr-brown: #3B1500;
+  --color-bnr-brown-mid: #5C2A10;
+  --color-bnr-brown-light: #7A3D1A;
+  --color-bnr-gold: #B8960C;
+  --color-bnr-gold-light: #D4AE1A;
+  --color-bnr-gold-pale: #F5E9B8;
+}
